@@ -14,3 +14,5 @@ How to use:
 start by typing node liri.js in terminal followed by concert-this and the desired artist
 
 ![image](https://user-images.githubusercontent.com/47402420/58675208-3eaa0500-8321-11e9-9c8e-de8a9927332b.png)
+
+![image](https://user-images.githubusercontent.com/47402420/58675287-9b0d2480-8321-11e9-9904-a732aa4f8a61.png)
